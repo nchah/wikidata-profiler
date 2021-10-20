@@ -27,9 +27,11 @@ The following output from the profiler should be uploaded to Google Drive, to be
 Clone the dashboard at https://datastudio.google.com/reporting/7f6f76eb-c24f-4a1d-b7a0-86fc4c2a55c4 and connect it to the uploaded TSVs.
 
 
-## Paper
+## Paper and Citation
 
-[Paper link](http://ceur-ws.org/Vol-2982/paper-13.pdf)
+Further details in the paper [WikiMetaData Studio: Dashboards From Data Profiling the Languages, Properties, and Items of Wikidata](http://ceur-ws.org/Vol-2982/paper-13.pdf).
+
+To cite this work:
 
 ```
 
