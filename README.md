@@ -34,7 +34,6 @@ Further details in the paper [WikiMetaData Studio: Dashboards From Data Profilin
 To cite this work:
 
 ```
-
 @inproceedings{chah_wikimetadata_2021,
 	title = {WikiMetaData Studio: Dashboards From Data Profiling the Languages, Properties, and Items of Wikidata},
 	author = {Chah, Niel and Andritsos, Periklis},
